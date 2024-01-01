@@ -41,7 +41,7 @@ int main(void)
 					putchar(' ');
 					putchar(n11);
 					putchar(n12);
-					if (n01 == 57 && n02 ==  56 && n11 == n12 == 57)
+					if (n01 == 57 && n02 ==  56 && n11 == 57 && n12 == 57)
 						continue;
 					putchar(',');
 					putchar(' ');
